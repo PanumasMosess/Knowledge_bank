@@ -1,0 +1,18 @@
+/// New
+1. คลิป 30 นาที  แก้จาก PDF To Link MP4  ดูในตัวเว็บ ==>  OK 16-09-2021
+2. หน้า Search summary ==> OK 22-09-2021
+3. แก้ 23 BU ==> OK 09-09-2021
+4. Logo 4 บริษัท ==> OK 17-09-2021
+
+
+/// New
+1. Graph summary && Tagget
+2. User Manament ==> 05-10-2021
+3. Line noti & Email ==> 05-10-2021
+4. Page insert Tar get  ==> OK 01-10-2021
+5. link to All2gether Line ==> NO 
+6. Help admin && P'Nong ==> 06-10-2021
+7. Reject Log ==> 05-10-2021
+8. button pre upload 
+
+// Tab Main Page Event   ==> add on after lunch KB

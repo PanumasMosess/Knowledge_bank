@@ -1,0 +1,13 @@
+.loadmore {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.loadBtn {
+  background-color: #77ACF1;
+  padding: 8px 17px;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 15px;
+  width: 250px;
+}
